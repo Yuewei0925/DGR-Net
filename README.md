@@ -1,2 +1,2 @@
 # DGR-Net
-Upon acceptance of the article, all the code will be made available.
+During the revision process, the complete code will be provided.
